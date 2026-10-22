@@ -1,4 +1,4 @@
-# Mini-ML-Project-telecom
+#Telecom Customer Churn Prediction | EDA, Machine Learning, ROC-AUC & Model Comparison
 End-to-end Telecom Customer Churn Prediction using Python, EDA, Logistic Regression, Random Forest, Model Evaluation, ROC-AUC Analysis, Threshold Optimization, and Cross-Validation.
 This looks like a much more complete Telecom Customer Churn Prediction project. For GitHub, I'd recommend highlighting not only EDA but also machine learning, model comparison, and business impact.
 
